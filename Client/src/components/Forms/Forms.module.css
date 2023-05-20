@@ -1,0 +1,40 @@
+.FormsContainer{
+    display: flex;
+    flex-direction: column;
+    width: 1000px;
+    height: 600px;
+    margin: 90px 350px;
+    padding:100px;
+    border: solid 2px rgb(255, 255, 255);
+    border-radius: 40px;
+    background-image: url(../img/Ben\ 10\ Fondo\ Login.jpg);
+    background-size: cover;
+    background-position: center;
+    transition: all 0.5s ease;
+    box-shadow: 0 0 20px rgb(0, 255, 34);
+    border-color: rgb(255, 255, 255);
+}
+
+.InputContainer{
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    background-color: rgb(112, 214, 92);
+    font-family: cursive;
+    border-radius: 10px 10px 10px 10px;
+    border-color: rgb(0, 0, 0);
+    font-size: 30px;
+    color: white;
+    width: 75%;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 0 20px rgb(0, 255, 34);
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.ButtonContainer{
+    display: flex;
+    justify-content: center;
+    height: 50px;
+}
+

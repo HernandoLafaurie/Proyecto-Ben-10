@@ -1,0 +1,8 @@
+.CardsContainer{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content:space-evenly;
+    width: screen;
+    height: full;
+    overflow: hidden;
+}
